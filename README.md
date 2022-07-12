@@ -1,3 +1,7 @@
+
+[![stats](https://github-readme-stats.vercel.app/api?username=jeethesh-pai&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 👋 Hi, I’m @jeethesh-pai
 - 👀 I’m interested in Machine learning and Computer Vision
 - 🌱 I’m currently learning Natural Lannguage Processing and SLAM
@@ -5,7 +9,6 @@
 - 📫 How to reach me - j.umesh@tu-braunschweig.de
 
 
-[![stats](https://github-readme-stats.vercel.app/api?username=jeethesh-pai&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
