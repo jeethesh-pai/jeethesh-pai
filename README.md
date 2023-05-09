@@ -33,7 +33,7 @@
 - 👀 I’m interested in Machine learning and Computer Vision 
 - 🌱 I’m currently learning about SLAM & Data Engineering
 - 💞️ I’m looking to collaborate on Deep Learning experiments
-- 📫 How to reach me - **j.umesh@tu-braunschweig.de**
+- 📫 How to reach me - **pjithesh06@gmail.com**
 
 
  <h3 align="left">Connect with me:</h3>
